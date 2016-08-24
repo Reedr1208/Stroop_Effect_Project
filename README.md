@@ -1,7 +1,7 @@
 # Stroop_Effect_Project
 Project Files for Stroop Effect Analysis
 
-Reed Project 1 contians 3 files.
+Reed_Project_1.zip contians 3 files.
 
 Challenging_the_Stroop_Effect- PDF document. This is the main project report
 
